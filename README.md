@@ -2,6 +2,8 @@
 
 Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 
+![full table](Screenshots/ufo.gif)
+
 ## Table of Contents
 * [Objective](#objective)
 * [UFO Filtering](#UFO-Filtering)
