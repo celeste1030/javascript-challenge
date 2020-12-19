@@ -1,11 +1,10 @@
-# javascript-challenge :extraterrestrial_alien:
+# javascript-challenge :flying_saucer:
 
 Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 
 ## Table of Contents
 * [Objective](#objective)
-* [Step 1](#Step-1)
-* [Step 2](#Step-2)
+* [UFO Filtering](#UFO-Filtering)
 * [Screenshots](#Screenshots)
 * [Technologies](#technologies)
 
@@ -13,9 +12,12 @@ Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 
 In this assignment, I wrote code to create a table dynamically based upon a dataset provided. I used JavaScript, HTML, and CSS, and D3.js to allow users to filter the table data for specific values.
 
-## Step 1
+## UFO Filtering
 
-## Step 2
+I used javascript to create a table that fills with the given ufo dataset. Both steps of the assignment are included in the following file. Check out the code here:
+
+*[Filtering with Java](UFO-levels-1-and-2/static/js/app.js)
+
 
 ## Screenshots
 
