@@ -19,6 +19,28 @@ In this assignment, I wrote code to create a table dynamically based upon a data
 
 ## Screenshots
 
+Screenshots from final HTML page:
+
+![full table](Screenshots/unfliteredtable.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Filter by state:
+
+![filter state](Screenshots/filterstate.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Filter by shape:
+
+![filter shape](Screenshots/filtershape.png)
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
+Filter by multiple fields (date, city):
+
+![filter multi](Screenshots/filtermulti.png)
+
+
+
+
 ## Technologies
 
 JavaScript
