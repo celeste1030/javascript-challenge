@@ -1,4 +1,4 @@
-# javascript-challenge
+# javascript-challenge :extraterrestrial_alien:
 
 Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 
@@ -11,7 +11,7 @@ Created by [Celeste Muniz - Lithgow](https://github.com/celeste1030)
 
 ## Objective
 
-In this assignment, I wrote code to create a table dynamically based upon a dataset we provide. I used JavaScript, HTML, and CSS, and D3.js to allow users to filter the table data for specific values.
+In this assignment, I wrote code to create a table dynamically based upon a dataset provided. I used JavaScript, HTML, and CSS, and D3.js to allow users to filter the table data for specific values.
 
 ## Step 1
 
@@ -22,6 +22,10 @@ In this assignment, I wrote code to create a table dynamically based upon a data
 ## Technologies
 
 JavaScript
+
+D3.js
+
+CSS
 
 HTML
 
