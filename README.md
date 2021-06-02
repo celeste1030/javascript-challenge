@@ -24,7 +24,7 @@ I used javascript to create a table that fills with the given UFO dataset. Both 
 
 Screenshots from final HTML page:
 
-![full table](Screenshots/unfliteredtable.png)
+![table](Screenshots/unfliteredtable.png)
 
 I edited the [style.css](UFO-levels-1-and-2/static/css/style.css) provided to give the page a unique look. 
 
